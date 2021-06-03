@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of the Lady Compton, August the 4th, 1687. By Lewis Atterbury, L.L.D. and rector of Sywell, in the county of Northampton</title>
+            <author>Atterbury, Lewis, 1656-1731.</author>
+         </titleStmt>
+         <extent>Approx. 28KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17324</idno><idno type="EEBO-CITATION">99825419</idno>
+  <idno type="VID">207538</idno>
+  <idno type="EEBO-PROQUEST">2248519189</idno>
+  
+            <idno type="STC">Wing A4156A</idno>
+            <idno type="PROQUEST">99825419</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825419e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207538)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1901:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of the Lady Compton, August the 4th, 1687. By Lewis Atterbury, L.L.D. and rector of Sywell, in the county of Northampton</title>
+                  <author>Atterbury, Lewis, 1656-1731.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R.E. and are to be sold by Randal Taylor near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A funeral sermon.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Compton, --  Lady, d. 1687 --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Funeral sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207538:1"/>
+            <pb facs="tcp:207538:1"/>
+            <p>A SERMON Preached at the FUNERAL OF THE Lady Compton, <hi>August</hi> the 4th, 1687.</p>
+            <p>By <hi>Lewis Atterbury,</hi> L. L. D. and Rector of <hi>Sywell,</hi> in the County of <hi>Northampton.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. E.</hi> and are to be Sold by <hi>Ran<g ref="char:EOLhyphen"/>dal Taylor</hi> near <hi>Stationers-Hall,</hi> 1687.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:207538:2"/>
+            <pb facs="tcp:207538:2"/>
+            <head>TO WILLIAM WILLMER, <hi>Esq;</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I HERE present You with a Ser<g ref="char:EOLhyphen"/>mon, which was first Preach'd (with<g ref="char:EOLhyphen"/>out any design of being made Publick) and is now Printed, wholly in compliance with Your desire.</p>
+            <p>You, who know how few hours were al<g ref="char:EOLhyphen"/>lotted me for the Composure, will di<g ref="char:EOLhyphen"/>spence with it Read, as well as Heard, although it be no Polite and Elaborate Discourse; and for others, that are less Candid, I am not Solicitous.</p>
+            <p>Plain and useful are the Characters I affect, if it may be any ways Instrumental to promote the good estate of their Souls
+<pb facs="tcp:207538:3"/>who peruse it, and serve to express a real Gratitude for Your Favours, it will fully answer my Design; who daily pray for your Temporal and Spiritual Wellfare in this World, and Your Eter<g ref="char:EOLhyphen"/>nal Happiness in the next; and am,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your Obliged, Faithful Servant, Lewis Atterbury.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:207538:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. XC. 12.</hi>
+                  </bibl>
+                  <p>So teach us to number our Days, that we may apply our Hearts unto Wis<g ref="char:EOLhyphen"/>dom.</p>
+               </q>
+            </epigraph>
+            <p>THIS <hi>Psalm</hi> is a Prayer of <hi>Moses,</hi> who, taking occasion from the present Calamities and Miseries, with which the Children of <hi>Is<g ref="char:EOLhyphen"/>rael</hi> were afflicted in the Wilderness; pens these Reflections on the shortness, the un<g ref="char:EOLhyphen"/>certainty, and Miseries of Humane Life, for the use of the present and succeeding Gene<g ref="char:EOLhyphen"/>rations: And, having insisted wholly upon this Theme in the first eleven verses, he concludes with what influence these Conside<g ref="char:EOLhyphen"/>rations ought to have upon our Lives and Conversations. <hi>So teach us to number our days, that we may apply our hearts unto Wisdom.</hi>
+            </p>
+            <pb n="2" facs="tcp:207538:4"/>
+            <p>In which words I shall consider,
+<list>
+                  <item>1. What is meant by numbring our days.</item>
+                  <item>2. What by applying our hearts unto Wisdom.</item>
+               </list>
+            </p>
+            <p n="1">1. By numbring our days, is not meant any curious or sollicitous enquiry into the de<g ref="char:EOLhyphen"/>terminate number of the days of our Life; for this would be not only useless, but im<g ref="char:EOLhyphen"/>possible to be discover'd by the glimmering Light of Humane Reason; 'tis only known to Omniscience, and a Secret lock'd up in the Archives of Heaven.
+<q>
+                  <l>
+                     <hi>Prudens futuri temporis exitum</hi>
+                  </l>
+                  <l>
+                     <hi>Caliginosâ nocte premit Deus.</hi>
+                  </l>
+               </q> Says the Poet. God out of kindness hides from us future Events, lest they should four the present enjoyments of Life. But the num<g ref="char:EOLhyphen"/>bring our days, denotes such a sober and serious consideration of the shortness and un<g ref="char:EOLhyphen"/>certainty
+<pb n="3" facs="tcp:207538:4"/>of our Lives, and the ends for which God has bestow'd the precious Talent of our Time upon us, that hereby we may be in<g ref="char:EOLhyphen"/>duc'd to make a right use of it. And thus 'tis frequently us'd in Scripture.</p>
+            <p n="2">2. By Wisdom is meant the applying our Minds to the true Fear of God, or the leading a Vertuous and Religious Life. For, as the <hi>Greeks</hi> and <hi>Romans</hi> call'd the Know<g ref="char:EOLhyphen"/>ledge of Secret and Excellent things by the name of Philosphy: so the <hi>Jews</hi> call'd it by the name of
+<note place="margin">*
+<p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> — Ignat. ad Smyrn. 2 <hi>Cor.</hi> 2.6, 7.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp;c. <hi>Sermonem sapientiae vocat non eloquentiam sed veram doctrinam cujus ipse etiam divinus Apostolus gratiam acceperat, &amp; divus Johannes Evan<g ref="char:EOLhyphen"/>gelista, &amp;c.</hi> Theodoret in 2 ep. ad Corinth. cap. 12.</p>
+               </note>
+               <hi>Cochmah</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or wisdom, which of<g ref="char:EOLhyphen"/>tentimes occurs in <hi>Solomon</hi>'s Works; and thus 'tis used by the Primitive Fathers. So that the plain meaning of the Words, is this.</p>
+            <p>O Lord, so teach us to consider the shortness and uncertainty of our Lives, that by living Vertuously and Religiously, we may wisely provide for the eternal welfare of our Souls. <hi>So teach us to number our days,</hi> &amp;c.</p>
+            <pb n="4" facs="tcp:207538:5"/>
+            <p>In which words are imply'd,</p>
+            <p n="1">1. The shortness and uncertainty of our Lives. Our Lives are measured by days.</p>
+            <p n="2">2. Our unwillingness to number them. We must be taught it.</p>
+            <p n="3">3. How we ought to number them. So teach us to number, <hi>&amp;c.</hi>
+            </p>
+            <p n="4">4. What effect a right numbring them would have upon our Lives and Conversa<g ref="char:EOLhyphen"/>tions. It would incline our Hearts to true Wisdom.</p>
+            <p n="1">1. The shortness and uncertainty of our Lives, which are measured out to us by Days, not Months and Years; teaching us, that we are only assured of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the time present,
+<note place="margin">
+                  <hi>Luke</hi> 12.</note> and know not but the next moment our Souls may be required of us. We are truly one of those Creatures <hi>Pliny</hi> tells us of, call'd <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Creatures of a Day; for tho' our lives may be
+<pb n="5" facs="tcp:207538:5"/>lengthen'd out to many Months and Years, yet we are exposed to so many Diseases, such variety of Accidents and Misfortunes, that we have reason to look upon every Day as our last. Let a Man but contemplate the curious Frame and Composition of his Bo<g ref="char:EOLhyphen"/>dy;
+<note place="margin">
+                  <hi>Psal.</hi> 139.14.</note> how many Springs and Wheels go to the making up this wonderful Machine: Let him but consider the infinite number of Bones, Veins, Arteries, and Fibres, the diffe<g ref="char:EOLhyphen"/>rent Situations, Intentions, and Qualifications of each, together with their continual and unaccountable Fermentations; and that, if but one Pin in this miraculous Movement is out of order, it threatens the <hi>Dissolution</hi> of the whole; and he will soon find, how little reason he has to flatter himself with the hopes of long Life, from Youth and a Vigorous Constitution; that his life hangs by a slender Thread, and his Preservation is as great a Mi<g ref="char:EOLhyphen"/>racle as his first Formation. The story of <hi>Damocles</hi> is the Case of every one of us. Whilst we indulge our selves in the Enjoyments and Pleasures of this World, and please our selves with the Hopes of many Happy Years to come: Death holds his Shaft over our Heads,
+<pb n="6" facs="tcp:207538:6"/>and perhaps the next moment strikes us through.</p>
+            <p>'Twould be too trite a Theme, to particu<g ref="char:EOLhyphen"/>larise the many Diseases and Accidents Man<g ref="char:EOLhyphen"/>kind is subject to, our daily Experience will suggest such Considerations as these to us, and therefore I shall not insist upon them; but close up all with the <hi>Apothegme</hi> of a <hi>Jew<g ref="char:EOLhyphen"/>ish Rabbi. Suppose</hi> (says he) <hi>you were fore<g ref="char:EOLhyphen"/>warn'd of seven Men, that one of them should kill you, would not you put your self upon your Guard at the approach of any one of them:</hi> In like manner, when we are assur'd that one day must be our last, ought we not in common Prudence to prepare our selves, lest the Pre<g ref="char:EOLhyphen"/>sent should be so. And therefore we may just<g ref="char:EOLhyphen"/>ly wonder,</p>
+            <p n="2">2. At our Aversion to meditate on the shortness of our Lives, that we have need to be taught this plain Lesson, <hi>So teach us to num<g ref="char:EOLhyphen"/>ber our Days, &amp;c.</hi> But alas! we are so taken up with the Pleasures and Enjoyments of this World, our Faculties are so earnestly arrested with the Objects of Sense, that 'tis very irk<g ref="char:EOLhyphen"/>some
+<pb n="7" facs="tcp:207538:6"/>to us, to think of parting with such dear Friends, and old Acquaintance. We say with the Apostles in the Mount; <hi>'tis good to be here;</hi> and hanker after the Leeks and Onions of <hi>Egypt,</hi> even when we are on the Confines of the Heavenly <hi>Canaan.</hi> We are indeed very exact in computing our Bags of Mo<g ref="char:EOLhyphen"/>ney and Acres of Land, our Sheep and Oxen are told, our Accounts ballanc'd, and even the Sands of the Sea escape not our Arithme<g ref="char:EOLhyphen"/>tick; but, as if the days of our Life had no relation to us, we seldom trouble our heads to number them, or else perversely multiply those few Units to an Eternity. For tho' we daily see many of our Friends and Acquain<g ref="char:EOLhyphen"/>tance snatch'd away from us in their Youth and the flower of their Age; yet these we take little notice of; but, if one amongst an hundred lives to threescore years and ten, this is con<g ref="char:EOLhyphen"/>tinually in our thoughts, and we question not, but our Lives will bear the same Date with his; nay in extream Age, we flatter our selves with the hopes of many Years to come, and are never so old but we expect to live a Year longer. <hi>Alexander</hi> the Great, puft up with his success in Arms, declares himself the
+<pb n="8" facs="tcp:207538:7"/>Son of a God, tho' his immature death at 32 Years of Age prov'd him mortal. And the <hi>Roman</hi> Captains dazled with the splendour of their Triumphs, found they had need of a <hi>Memento te mortalem esse,</hi> remember that thou art mortal. And therefore we have great Reason, by a frequent Meditation on Death and Eternity, to loosen our Souls from sensual Objects, to shake off these Houses of Clay, and call to mind that this World is not our Home, that we are of a more Di<g ref="char:EOLhyphen"/>vine Original, free Denizens of the Heavenly <hi>Jerusalem.</hi> And therefore I come to shew,</p>
+            <p n="3">3. How we ought to number our days.</p>
+            <p n="1">1. Number only the Time present. Do not promise thy self many Months and Years of Health and Prosperity, since every mo<g ref="char:EOLhyphen"/>ment thou enjoyest, is the unmerited Largess of Heaven. That vital fire which informs thy unactive Clay burns no longer than 'tis sustain'd by the Breath of the Lord which at first kindled it; and therefore do not cheat thy self, (as the generality of Mankind doth) and fancy thou hast many years in store
+<pb n="9" facs="tcp:207538:7"/>since the time to come is no more thine than that which is past, and thou mayst as well call back Yesterday, as assure thy self of to Mor<g ref="char:EOLhyphen"/>row. To call that time thy own which is so little in thy power, would be to Act over the folly of the mad <hi>Athenian,</hi> who standing upon the Key at <hi>Athens,</hi> took account of all the Ships that entered in, and their burthen, and fancy'd them his own. 'Twould be time mispent to inculcate this plain and self-evident Truth, did not our Experience teach us, that though 'tis universally be<g ref="char:EOLhyphen"/>liev'd, 'tis seldom thought on; for upon what account do men defer the Reforma<g ref="char:EOLhyphen"/>tion of their Lives? why do they put off this important (and as they themselves con<g ref="char:EOLhyphen"/>fess) absolutely necessary work? but that they expect their days should be exten<g ref="char:EOLhyphen"/>ded to the utmost limits of Humane Life, and they drop ripe into their Graves.</p>
+            <p n="2">2. Appoint set times for numbring your days. For so bewitching are the Tempta<g ref="char:EOLhyphen"/>tions and Allurements of the world, that unless we frequently meditate on this Sub<g ref="char:EOLhyphen"/>ject,
+<pb n="10" facs="tcp:207538:8"/>we shall be apt to place our Affecti<g ref="char:EOLhyphen"/>ons on things below; to take up on this side <hi>Jordan,</hi> and forget our Heavenly <hi>Ca<g ref="char:EOLhyphen"/>naan.</hi> We are Creatures of sense, busied about those Objects which at present offer themselves to us, and are very hardly per<g ref="char:EOLhyphen"/>swaded our Condition shall be altered. We promise our selves a long and uninterrup<g ref="char:EOLhyphen"/>ted succession of Prosperity, the Enjoyment of our Goods for many years, when we know not but this Night our Souls may be required of us; and therefore the Ad<g ref="char:EOLhyphen"/>vice of a Heathen Moralist, would certain<g ref="char:EOLhyphen"/>ly much more become a Christian, That we should examine out selves every night before we compose our selves to sleep, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> What Progress have I made in my Christian Course? What Good have I done this day? What Sins have I committed? What ought I to have done which I have omitted? This would have the same Effect with keeping an exact Account of our Temporal In<g ref="char:EOLhyphen"/>coms and Expence; of which 'tis observ'd, that hardly any man that performs it carefully, runs out of his Estate by his
+<pb n="11" facs="tcp:207538:8"/>own Profuseness. This would keep our Consciences tender, and stifle the first ri<g ref="char:EOLhyphen"/>sings of Sin in our Hearts: 'twould crush the Cockatrice in the Egg, and extinguish the Sparks of Lust, before they are fann'd into the flame of habitual sins.</p>
+            <p n="3">3. Number the days you have lost. Consider with your self <hi>quam minima pars vitae est quam vivimus,</hi>
+               <note place="margin">
+                  <hi>Infinita est ve<g ref="char:EOLhyphen"/>locitas temporis quae magis ap<g ref="char:EOLhyphen"/>paret respicien<g ref="char:EOLhyphen"/>tibus,</hi> Sen. ep. 59.</note> how little of our time we spend in those Actions which are suitable to the Dignity of our Natures, and tend to promote our true, that is, our Eternal Interest. For to omit that Infan<g ref="char:EOLhyphen"/>cy is the Life of a Plant, that Child-hood and Youth are Vanity, compute the time we spend <hi>inter pectina &amp; calicem,</hi> then add what we lavish in eating, drinking, and sleep<g ref="char:EOLhyphen"/>ing; what ill husbands shall we find our selves of that little which remains? the grea<g ref="char:EOLhyphen"/>test part is taken up in pursuing the Cri<g ref="char:EOLhyphen"/>minal Pleasures of the World, the Lusts of the Flesh, the Lusts of the Eye, and the Pride of Life: Whereas the worship of our Creator, the making our calling and E<g ref="char:EOLhyphen"/>lection sure, the preparation for Death, are
+<pb n="12" facs="tcp:207538:9"/>often wholly neglected; and generally but the Imployment of some leisure Hours: The best of us are too frequently allur'd by the Follies and Vanities of the World, we lose many precious seasons of Grace, and grieve and resist God's Holy Spirit. And therefore let these Considerations make us more careful for the future, let it suffice that for the time past we have been seduc'd by the sollicitations of the Devil, and our own corrupt Natures; from henceforth let us press forward, redeeming the time, knowing that it is now high time to a<g ref="char:EOLhyphen"/>wake out of sleep: The night is far spent, the day is at hand, let us therefore cast off the works of darkness, and let us put on the Armour of Light.</p>
+            <p n="4">4. Number your days in order to Eternity: Consider, that upon a due managing this small Portion of Time allotted us in this World, the Eternal welfare of our Bodies and Souls doth depend.
+<note place="margin">Ex hoc momento pendet Aeterni<g ref="char:EOLhyphen"/>tas.</note> That this World is, as it were, the great Laboratory for the preparing us for the next, and that if we are not perfected here, we cease to be so for ever; Death comes, and shuts the
+<pb n="13" facs="tcp:207538:9"/>Door, and deprives us of the hopes of all future happiness: If with the Foolish Virgins we slumber, and neglect to trim our Lamps with the Oil of Grace and Good Works, till the Bridegroom comes, there will be no borrowing then when we have need of it, we shall be for ever excluded from the Marriage-Feast: for as the Tree falls so it lies, and ac<g ref="char:EOLhyphen"/>cording as our management of those Ta<g ref="char:EOLhyphen"/>lents God has here entrusted us with has been, such will our condition be to all Eternity hereafter. O Eternity, Eternity! who can with<g ref="char:EOLhyphen"/>out concernment contemplate this endless State of Bliss or Misery? who can think on it without Horrour and amazement? 'Tis a Stream which always flows, a Duration which never ceases; which must needs be above our Comprehension, since 'tis more bound<g ref="char:EOLhyphen"/>less than thought it self. Did but the Sin<g ref="char:EOLhyphen"/>ner seriously meditate on it, could he but once be capable of such a serious thought, 'twould make his Knees smite together, and every Joint tremble. The Drunkard would let fall his Cup, and the boiling blood of the Lascivious person, would chill and freeze at this consideration; that after he has en<g ref="char:EOLhyphen"/>dured
+<pb n="14" facs="tcp:207538:10"/>Hell Torments more Ages than there are hairs on his Head, or Sands on the Sea shore, or than Arithmetick can number; he shall be no nearer an end of his Misery, than when he first entred into them. Be wise then in time, and weigh it well, which are to be preferr'd; the Pleasures of sin, which are but for a Season, or those at God's Right-Hand for evermore: which is easiest to be born, the momentary Sufferings of this pre<g ref="char:EOLhyphen"/>sent Life; or the fiery Vengeance of an an<g ref="char:EOLhyphen"/>gry God to all Eternity. And that these Considerations may make the more lasting Impressions on your minds,</p>
+            <p n="5">5. Implore the Assistance of God's Crace, that he would teach you so <hi>to number your days, &amp;c.</hi> For without this, all our endea<g ref="char:EOLhyphen"/>vours will prove unsuccessful, the Tempta<g ref="char:EOLhyphen"/>tions of the Devil will be too hard for us, and we shall be born down by the stream of our corrupt Inclinations. 'Twill be im<g ref="char:EOLhyphen"/>possible for us long to maintain a violent Motion, that runs counter to our Passions and Appetites, without a spiritual Principle inspir'd into us from above; it must be this
+<pb n="15" facs="tcp:207538:10"/>Spring which sets all the Faculties of our Souls on working, and enables us to sur<g ref="char:EOLhyphen"/>mount those Difficulties which otherwise would be insuperable; 'tis the Grace of God alone which triumphs over Nature, and will in the end Crown us with a Wreath of Victory, if accompanied with our honest Endeavours. Of this we have a plain in<g ref="char:EOLhyphen"/>stance in the Philosophers, who were Men of most excellent Tempers, furnished with the most admired Precepts of Moral Philoso<g ref="char:EOLhyphen"/>phy, and yet none of them could live up to their own Rules; but by their Practice utterly confuted their Speculation. They did indeed number their Days, their Discourses were full of pompous Expressions of the shortness and uncertainty of Life, the contempt of Death, and Vanity of worldly things; but their Medi<g ref="char:EOLhyphen"/>tations did not direct them to apply their Hearts unto Wisdom. For neither <hi>Cato</hi> nor <hi>Brutus</hi> (who were represented as the consum<g ref="char:EOLhyphen"/>mate Exemplars of Wisdom; Men, who had realiz'd the sublime Idea of Vertue described in their Writings) were able to make a fair <hi>Ex<g ref="char:EOLhyphen"/>it</hi> from the Stage of Life. So insufficient are the best Precepts of meer Natural Reason
+<pb n="16" facs="tcp:207538:11"/>(like Torrents that are dryed up in the heat of Summer, when there is most need of them) they fail in extremity, because not deriv'd from the Fountain of Life.</p>
+            <p n="6">6. Frequently visit the Houses of Mour<g ref="char:EOLhyphen"/>ning, behold your expiring Friends and Re<g ref="char:EOLhyphen"/>lations when they are on Beds of languishing and leaving the World, when all Prejudice and Passion leaves them, when the Soul re<g ref="char:EOLhyphen"/>tires within it self, beholds all Objects in their proper Colours, and every thing in its true Light: Then listen what Counsel and Advice they'll give you. Will they bid you pursue the <hi>Syren</hi> Charms of deluding Pleasure? or court the Aery Applause of the giddy Mul<g ref="char:EOLhyphen"/>titude? or burthen your self with thick Clay? No, all these they'll, tell you are vain and useless, nothing yields them any real satisfaction, but the remembrance of a well spent life, a good Conscience, saving Grace, and the knowledge of Jesus Christ. I come to shew,</p>
+            <p n="4">4. And lastly, what Effect a right num<g ref="char:EOLhyphen"/>bring our days would have upon our Lives
+<pb n="17" facs="tcp:207538:11"/>and Conversations. It will teach us to ap<g ref="char:EOLhyphen"/>ply our Hearts unto true spiritual wisdom, which consists in these four things,</p>
+            <p n="1">1. In keeping us from all wilful and pre<g ref="char:EOLhyphen"/>sumptuous sins.</p>
+            <p n="2">2. In a careful improvement of Time.</p>
+            <p n="3">3. In taking off our Affections from worldly things.</p>
+            <p n="4">4. In a due preparation for Death, and comfortable Hopes of Happiness here<g ref="char:EOLhyphen"/>after.</p>
+            <p n="1">1. The frequent Meditation on the short<g ref="char:EOLhyphen"/>ness and uncertainty of our Days, will keep us from wilful and presumptuous sins. 'Tis the good advice of the Son of <hi>Sirach.</hi> Re<g ref="char:EOLhyphen"/>member thy end, and let Enmity cease, re<g ref="char:EOLhyphen"/>member Corruption and Death, and abide in the Commandement; for, he that consi<g ref="char:EOLhyphen"/>ders that he walks upon the brink of Eterni<g ref="char:EOLhyphen"/>ty, will be very careful how to direct his steps; he dares not affront the great Judge
+<pb n="18" facs="tcp:207538:12"/>of the world, by a wilful violation of his Laws; nor with the Rich man in the Gospel, sing a <hi>Requiem</hi> to his Soul, because he knows not but this night it may be required of him; with St. <hi>Jerom,</hi> he fancies the last Trump continually founding in his ears, arise ye dead, and come to Judgment: And when tempted to the commission of any sin, reasons thus with himself. Would I do this thing, if this day were to be my last? and how know I, but my Soul may expire the next mo<g ref="char:EOLhyphen"/>ment, since this very moment, many thou<g ref="char:EOLhyphen"/>sands are breathing out their last? And there<g ref="char:EOLhyphen"/>fore the <hi>Indian Brachmans</hi> had their Sepulchres before their Doors, that, both at their going out and coming in, they might remember their approaching Death, as a curb to restrain them from all sinful pleasures, and immo<g ref="char:EOLhyphen"/>derate desires of worldly enjoyments.</p>
+            <p n="2">2. It would make us careful to improve every moment of our time, considering how great the Task is we are to perform in those few moments which are allotted us. For believe me (Friends) the business of our sal<g ref="char:EOLhyphen"/>vation is a work of difficulty, and requires
+<pb n="19" facs="tcp:207538:12"/>our utmost Care and Diligence. The subdu<g ref="char:EOLhyphen"/>ing our Corruptions, the denying of our selves, and breaking off those Vicious Ha<g ref="char:EOLhyphen"/>bits, which have got the possession of our Souls, and the introducing the contrary Gra<g ref="char:EOLhyphen"/>ces of Faith, Vertue, Knowledge, Temperance, Patience, Godliness, Brotherly kindness, and Charity. This is not to be performed without Pains and Industry; and therefore we are com<g ref="char:EOLhyphen"/>manded in the Holy Scripture, <hi>to work out our Salvation with fear and trembling, to strive to en<g ref="char:EOLhyphen"/>ter into the strait gate, and to give all diligence to make our Calling and Election sure.</hi>
+            </p>
+            <p>Now he that is heartily convinc'd of this, will hardly think it Prudence to trifle away any part of that time, upon which an Eter<g ref="char:EOLhyphen"/>nity depends; the length of his Journey will make him mend his pace, and improve to to the uttermost, those few Sands which are left in his Glass. He that understands wisely, how to number his days, will think his whole Life little enough to secure the great concern of his Soul, and himself sufficiently rewarded, if after many Fastings and Watchings, many Prayers and Tears, many acts of Mortifica<g ref="char:EOLhyphen"/>tion
+<pb n="20" facs="tcp:207538:13"/>and self-denyal, many toilsom Conflicts with the Devil, and his own deprav'd Nature, he at last obtains a comfortable hope of Happiness in the Life to come.</p>
+            <p n="3">3 It will take our Affections off from worldly things, by shewing us how vain and transitory they must needs be, since even our Lives, upon which these depend, are so uncer<g ref="char:EOLhyphen"/>tain and precarious; if they do not make themselves wings, and fly away, yet we must leave them, and be taken from all those gilded Trifles, which, like the Apples of <hi>So<g ref="char:EOLhyphen"/>dom,</hi> gratifie our Senses for a little while, but then crumble to Dust, and leave an ungrate<g ref="char:EOLhyphen"/>ful smell behind them.</p>
+            <p>For wouldest thou purchase to thy self a Monopoly of all the Wealth in the world, wert thou able to empty the <hi>Western</hi> Parts of Gold, and the <hi>East</hi> of all her Spices, shouldst thou enclose to thy self the whole Earth from one end of Heaven to another,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ar. in Ep.</note> and fill this wide world's circumference with Golden heaps and hoards of Pearl: Didst thou in the mean time sit at the Stern;
+<pb n="21" facs="tcp:207538:13"/>and hold the Reins in thine hand of all Earthly Kingdoms; nay, exalt thy self as the Eagle, and set thy Nest among the Stars; or, like the Sun of the morning, advance thy Throne, even above the Stars of God; yet all this would be of no use to thee un<g ref="char:EOLhyphen"/>der the pressures and accusations of an a<g ref="char:EOLhyphen"/>waken'd Conscience, or on a dying bed; in vain wilt thou then seek for a portion of Scripture to sustain thy Soul, or call for a drop of that living water to quench thy thirst. The Pomp and Splendour, all the wealth of this world, can give no relief in a day of wrath, (<hi>Prov.</hi> 11.4.) they will all vanish as the morning dew, or, like broken Reeds, pierce thy hands, when thou leanest upon them.</p>
+            <p n="4">4. And lastly, to prepare our selves for Death, and lay good grounds for comfor<g ref="char:EOLhyphen"/>table hopes of Happiness hereafter; by fre<g ref="char:EOLhyphen"/>quently making up our accounts with God, we shall attain to such an holy trust and con<g ref="char:EOLhyphen"/>fidence in his Mercy, as not to be affrighted with those terrors, which Death the King of them usually brings along with him. For
+<pb n="22" facs="tcp:207538:14"/>the Apostle tells us, <hi>that the sting of Death is sin;</hi> that is, 'tis the remembrance of past sins unrepented of, and neglect of this duty of numbring their days, which fills, even the Souls of Good Men, with fear and distra<g ref="char:EOLhyphen"/>ction at the time of their departure out of this life: The Devil then is very busie, and represents to their Consciences all the past miscarriages of their Lives; he injects dire and black thoughts into their Minds, and frequently drives them even to the gates of de<g ref="char:EOLhyphen"/>spair. Now he, that is well practis'd in this holy Art of numbring his days, and hath liv'd in continual expectation of his approaching end, has nothing to do, but, with old <hi>Simeon,</hi> to sing his <hi>nunc dimittis; Lord now lettest thou thy Servant depart in peace.</hi> Death is to him a welcome Messenger, which brings him a <hi>quietus esto.</hi> A rest from all pains, labours and Afflictions. He meets it with the same serenity of mind, that one meets a familiar Acquain<g ref="char:EOLhyphen"/>tance; and lies down in his Grave with as little concern, as he us'd to lye down in his Bed, <hi>Isa.</hi> 57.2. So much reason had that wicked Prophet <hi>Balaam</hi> for his wish: <hi>O let me dy the death of the Righteous, and let my latter
+<pb n="23" facs="tcp:207538:14"/>end be like his!</hi> What remains therefore, but that, from a frequent and serious consideration of the shortness and uncertainty of our time here, we be all of us prevailed upon to apply our Hearts unto true spiritual wisdom; that so, when our Souls shall leave these Houses of Clay; <hi>and our mortal put on immortality,</hi> we may be receiv'd into those Heavenly Aboads, <hi>where the spirits of just men made perfect, enjoy perpetual rest and felicity, by an uninterrupted Communion with God in Glory;</hi> which we have good reason to hope, is the happy Condition of this Honou<g ref="char:EOLhyphen"/>rable Person, whose Funerals we here solemnize.</p>
+            <p>It would be easie here to expatiate in a Pane<g ref="char:EOLhyphen"/>gyrick on her Birth and Parentage, and those o<g ref="char:EOLhyphen"/>ther Endowments with which Nature and Education had bless'd her; but this suits bet<g ref="char:EOLhyphen"/>ter with the <hi>Forum</hi> than the Pulpit, and they are all so well known to most here, that it would be of no use at present.</p>
+            <p>I shall only give you an account of those passages in her last sickness, of which I my self was a witness: In which, after she had struggl'd with the tedious Infirmities of a lingring Disease, with an invincible Mind; she exchang'd this Life for a better; like a de<g ref="char:EOLhyphen"/>vout
+<pb n="24" facs="tcp:207538:15"/>Christian and a sound Member of the Church of <hi>England.</hi> For, when she found her strength decay, and that she was going to her long home, she earnestly requested the <hi>Viati<g ref="char:EOLhyphen"/>cum</hi> of the Holy Sacrament; and frequently desired the Prayers of the Church; she solemnly declared her lively Faith in God, her serious Repentance for the past Errors of her Life, and her unfeigned Love and Charity towards all the World; and, having receiv'd the Absoluti<g ref="char:EOLhyphen"/>on of the Church, she past the rest of her time in pious and holy Ejaculations; and at last devoutly breath'd out her Soul, in the words of the Holy <hi>Stephen, Lord Jesus re<g ref="char:EOLhyphen"/>ceive my Spirit.</hi>
+            </p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207538:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
